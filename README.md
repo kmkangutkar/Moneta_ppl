@@ -7,7 +7,7 @@ Aim of Project : To create a User friendly money managment application that keep
 Language Used in Project: JAVA
 
 Software Used : Eclipse
-	            	MySQL
+	     	MySQL
   
 Description about project: 
 	It deals with "Personal" as well as "Group" finance.
@@ -31,7 +31,7 @@ Description about project:
  
 Requirements :
 	Eclipse
-	MySQL
+	MySQL (http://dev.mysql.com/downloads/)
 	
 Class : SY COMP
 
