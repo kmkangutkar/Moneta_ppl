@@ -26,7 +26,9 @@ Description about project:
 		   It also shows notification if the spent amount exceeds the budget and asks the user to set the budget again.	   
 		      
 		    
-	GROUP :    A group can have 3-6 members.The amount spent by each person is taken as input. The group calculator does the calculation           accordingly and minimises the number of transactions. Then it displays the result.
+	GROUP :    A group can have 3-6 members.The amount spent by each person is taken as input. 
+		   The group calculator does the calculation accordingly and minimises the number of transactions. 
+		   Then it displays the result.
  
  
 Requirements :
